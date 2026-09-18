@@ -1,5 +1,5 @@
 
-# Hey, I'm Davies 👋
+# Hey, I'm Davies 
 
 Self-taught full-stack developer from Nigeria, passionate about building products that solve real-world problems. Currently open to software engineering roles and actively shipping side projects.
 
@@ -7,7 +7,7 @@ Self-taught full-stack developer from Nigeria, passionate about building product
 
 - **[bucketflow](https://www.npmjs.com/package/bucketflow)** — Rate-limiting made simple. Token Bucket, Fixed Window, and Leaky Bucket algorithms in TypeScript. Published to npm.
 - **[devstash](https://github.com/RaucousDave/devstash)** — A CLI tool that stores and executes developer commands via an interactive TUI. Built with Go (Cobra + Bubbletea), shipped via GoReleaser.
-- **Streakly** — Habit-tracking SaaS with a full streak engine, freezes. Bun + Express backend, React frontend, deployed on Render and Vercep respectively.
+- **Streakly** — Habit-tracking SaaS with a full streak engine, freezes. Bun + Express backend, React frontend, deployed on Render and Vercel respectively.
 
 
 ## Tech Stack
